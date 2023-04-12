@@ -1,13 +1,13 @@
 {
-	"name": "2022 moodle_redirect grade page",
-	"description": "redirect to grade page in OECU-moodle2022 author:yas_yasyu",
+	"name": "2023 moodle_redirect grade page",
+	"description": "redirect to grade page in OECU-moodle2023 author:yas_yasyu",
 	"version": "1.0.0",
 	"manifest_version": 3,
 	"permissions":["storage"],
 	"options_page":"options.html",
 	"content_scripts": [{
 		"matches": [
-			"https://moodle2022.cs.osakac.ac.jp/2022/"
+			"https://moodle2023.cs.osakac.ac.jp/2023/*"
 		],
 		"js": [
 			"jquery-3.5.0.slim.min.js",
