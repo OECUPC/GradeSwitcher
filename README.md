@@ -8,7 +8,7 @@ Moodleの時間割を読み込み時に、指定した学年/学期の時間割�
 https://docs.google.com/presentation/d/e/2PACX-1vTj0Am9Shq_v8Dmtfh-pKJf9LsvvX1BOllSWdvTAMlFdwkD8PyXyBEIKZKsLJzDCtnBz1XxYwMBwEQS/pub?start=false&loop=false&delayms=3000
 
 - `zip`フォルダの中にある`.zip`ファイルをダウンロードする。
-    - 自分の学科のものをダウンロードすればOK
+    - T学科の場合は`ver_T`のものをダウンロードすればOK！
 
 - `.zip`を解凍する。
 - Chromeの拡張機能として追加する<br>
